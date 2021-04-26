@@ -1,0 +1,43 @@
+.navbar-collapse{
+    color: black;
+}
+
+.navbar-dark {
+    background: white;
+    height: 120px;
+  }
+
+.nav-logo {
+    color: black !important;
+    text-decoration: none !important;
+
+  }
+
+.nav-link-color {
+    color: black;
+  }
+
+.icon-info{
+    color:seagreen;
+}
+
+.col-sm-bio{
+    text-align: center;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+  }
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+  }
+
+  
