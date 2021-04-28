@@ -1,6 +1,6 @@
-Richard Nathaniel Portfolio
+# Richard Nathaniel Portfolio
 
-About this project
+## About this project
 - This page will be the main page to my MIT X Pro examples. 
 
 Development
