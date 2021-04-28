@@ -5,13 +5,13 @@
 
 # Current Portfolio
 ## PacMan
-<a href="https://github.com/rnathaniel85/exercise-pacman">PacMan Exercise</a>
+<a href="https://github.com/rnathaniel85/exercise-pacman">PacMan Exercise repo</a>
 
 ## Eyes
-<a href="https://github.com/rnathaniel85/excercise-eyes">Eyes Exercise</a>
+<a href="https://github.com/rnathaniel85/excercise-eyes">Eyes Exercise repo</a>
 
 ## Real Time Bus Track
-<a href="https://github.com/rnathaniel85/Real-Time-Bus-Tracker">Real Time Bus Track Exercise</a>
+<a href="https://github.com/rnathaniel85/Real-Time-Bus-Tracker">Real Time Bus Track Exercise repo</a>
 
 # Pages
 - This site has two pages, the Home Page which shows my bio, picture and a video of me talking. My Second page is my portfolio page that has my exercises. 
