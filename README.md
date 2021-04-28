@@ -5,7 +5,7 @@
 
 # Current Portfolio
 ## Eyes
-<a href="https://github.com/rnathaniel85/excercise-eyes" />
+<a href="https://github.com/rnathaniel85/excercise-eyes">Eyes Exercise</a>
 
 Pages
 - This is the landing page and will show the index
