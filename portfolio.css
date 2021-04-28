@@ -1,3 +1,4 @@
+/* NavBar Style */
 .navbar-collapse{
     color: black;
 }
@@ -12,19 +13,14 @@
     text-decoration: none !important;
 
   }
-
 .nav-link-color {
     color: black;
   }
-
-.icon-info{
-    color:seagreen;
-}
-
+/* Bio Style */
 .col-sm-bio{
     text-align: center;
 }
-
+/* Hypertext Style */
 a{
     color: black;
     text-decoration: none;
@@ -39,5 +35,40 @@ a:hover {
     color: red;
     text-decoration: underline;
   }
+/* Header Style */
+  .portfolio-1{
+    text-align: left; 
+    font-family: 'Antonio', sans-serif; 
+    font-size: 5em; 
+    color:tomato;
+  }
 
-  
+  .portfolio-2{
+    text-align: right; 
+    font-family: 'New Tegomin', serif; 
+    font-size: 4em;
+  }
+/* Video Style */
+  .video-1{
+    text-align: center; 
+    padding-top: 20px
+  }
+/* Contact Style */
+  .icon-info{
+    color: seagreen;
+    padding-top: 50px; 
+    padding-bottom: 30px;
+}
+
+.contact {
+  padding-left: 5px; 
+  color: black;
+}
+
+.card-text{
+  text-align: center;
+}
+
+.card-body{
+  text-align: center;
+}
